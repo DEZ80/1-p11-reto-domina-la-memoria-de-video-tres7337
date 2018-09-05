@@ -35,6 +35,6 @@ PC: 4000
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/tuimagen1.png)
 ![Actividad 2](/reto2.png)
-![Actividad 3](/tuimagen3.png)
+![Actividad 3](/reto3.png)
 ![Actividad 4](/tuimagen4.png)
 
